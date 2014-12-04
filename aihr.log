@@ -1,0 +1,125 @@
+INFO:root:Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO:root:Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO:root:Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO:root:Saved جمعية الحصاد للثقافة بعمدون
+INFO:root:Downloading 6 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO:root:No NGO with id 6
+INFO 2014-11-06 16:22:14,986: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:22:15,161: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:22:15,162: Waiting for 9 seconds before moving on
+INFO 2014-11-06 16:22:24,165: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:22:24,428: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:22:24,428: Waiting for 13 seconds before moving on
+INFO 2014-11-06 16:22:37,430: Downloading 6 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:22:37,852: No NGO with id 6
+INFO 2014-11-06 16:22:37,852: Waiting for 8 seconds before moving on
+INFO 2014-11-06 16:22:59,363: 
+Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+INFO 2014-11-06 16:22:59,626: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:22:59,626: Waiting for 8 seconds before moving on
+INFO 2014-11-06 16:23:07,627: 
+Downloading 5 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:23:07,815: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:23:07,815: Waiting for 13 seconds before moving on
+INFO 2014-11-06 16:23:20,815: 
+Downloading 6 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:23:20,940: No NGO with id 6
+INFO 2014-11-06 16:23:20,941: Waiting for 11 seconds before moving on
+INFO 2014-11-06 16:23:38,094: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:23:38,271: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:23:38,272: Waiting for 7 seconds before moving on
+
+
+INFO 2014-11-06 16:23:45,275: Downloading 5 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:23:45,446: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:23:45,446: Waiting for 9 seconds before moving on
+
+
+INFO 2014-11-06 16:23:54,448: Downloading 6 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:23:54,575: No NGO with id 6
+INFO 2014-11-06 16:23:54,575: Waiting for 14 seconds before moving on
+
+
+INFO 2014-11-06 16:25:07,453: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:25:07,768: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:25:07,768: Waiting for 14 seconds before moving on
+
+INFO 2014-11-06 16:25:21,768: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:25:21,942: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:25:21,942: Waiting for 5 seconds before moving on
+
+INFO 2014-11-06 16:25:26,943: Downloading 6 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:25:27,066: No NGO with id 6
+INFO 2014-11-06 16:25:27,066: Waiting for 5 seconds before moving on
+
+INFO 2014-11-06 16:25:32,071: Downloading 7 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:25:32,194: No NGO with id 7
+INFO 2014-11-06 16:25:32,194: Waiting for 11 seconds before moving on
+
+INFO 2014-11-06 16:29:58,456: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:30:30,921: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:30:40,344: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:30:58,411: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:31:14,443: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:31:46,122: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+INFO 2014-11-06 16:32:14,326: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:32:51,238: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:33:00,807: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:34:43,599: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:34:54,625: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:35:47,945: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:35:50,545: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:35:51,181: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:39:50,080: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:39:50,276: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:39:50,276: Waiting for 14 seconds before moving on
+
+INFO 2014-11-06 16:40:04,276: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:40:04,445: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:40:04,445: Waiting for 7 seconds before moving on
+
+INFO 2014-11-06 16:40:11,448: Downloading 6 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:40:11,576: No NGO with id 6
+INFO 2014-11-06 16:40:11,576: Waiting for 9 seconds before moving on
+
+INFO 2014-11-06 16:41:38,686: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:41:54,960: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+INFO 2014-11-06 16:41:59,261: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:42:18,450: Downloading 4 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+INFO 2014-11-06 16:42:37,518: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:42:49,787: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:42:50,049: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:42:50,049: Waiting for 6 seconds before moving on
+
+INFO 2014-11-06 16:42:56,054: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:42:56,236: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:42:56,236: Waiting for 14 seconds before moving on
+
+INFO 2014-11-06 16:43:10,236: Downloading 6 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+INFO 2014-11-06 16:43:10,388: No NGO with id 6
+INFO 2014-11-06 16:43:10,388: Waiting for 11 seconds before moving on
+
+INFO 2014-11-06 16:44:02,805: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+INFO 2014-11-06 16:44:02,986: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:44:02,987: Waiting for 14 seconds before moving on
+
+INFO 2014-11-06 16:44:16,991: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+INFO 2014-11-06 16:44:17,165: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:44:17,166: Waiting for 7 seconds before moving on
+
+INFO 2014-11-06 16:44:24,170: Downloading 6 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:44:24,333: No NGO with id 6
+INFO 2014-11-06 16:44:24,333: Waiting for 8 seconds before moving on
+
+INFO 2014-11-06 16:45:27,502: Downloading 4 as Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+INFO 2014-11-06 16:45:27,686: Saved جمعية العمل من أجل التنمية والديمقراطية
+INFO 2014-11-06 16:45:27,686: Waiting for 12 seconds before moving on
+
+INFO 2014-11-06 16:45:39,689: Downloading 5 as Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+INFO 2014-11-06 16:45:39,865: Saved جمعية الحصاد للثقافة بعمدون
+INFO 2014-11-06 16:45:39,865: Waiting for 11 seconds before moving on
+
+INFO 2014-11-06 16:45:50,865: Downloading 6 as Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+INFO 2014-11-06 16:45:51,006: No NGO with id 6
+INFO 2014-11-06 16:45:51,006: Waiting for 6 seconds before moving on
+
